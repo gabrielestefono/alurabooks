@@ -19,7 +19,7 @@ Pronto! Agora você deve estar visualizando o website localmente no seu navegado
 
 ## Como usar:
 
-A página em questão é uma landing page para demonstração de um produto. Pode ser personalizado utilizando um editor de texto, pra isso é necessário antes instalar, como no passo a passo de instalação.
+A página em questão é uma página de exibição de produtos em uma espécie de livraria virtual da Alura.
 
 ## Contato
 
